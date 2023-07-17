@@ -4,9 +4,9 @@ import './intro.css';
 function Intro() {
   return (
     <div className='intro FlexBoxCenter' >
-      <div className='title FlexBoxCenter'>
+      <h1 className='title FlexBoxCenter'>
         신입 개발자 노수민입니다.
-      </div>
+      </h1>
       <div>
         자기소개 영역
       </div>
