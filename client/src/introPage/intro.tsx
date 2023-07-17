@@ -1,10 +1,11 @@
 import React from 'react';
+import './intro.css';
 
 function Intro() {
   return (
-    <div>
-      <div>
-        안녕하십니까. 신입 개발자 노수민입니다.
+    <div className='intro FlexBoxCenter' >
+      <div className='title FlexBoxCenter'>
+        신입 개발자 노수민입니다.
       </div>
       <div>
         자기소개 영역
