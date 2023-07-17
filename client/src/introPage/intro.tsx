@@ -10,7 +10,11 @@ function Intro() {
       <div>
         자기소개 영역
       </div>
-      <div>진행한 프로젝트 소개</div>
+      <div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
       <div>링크</div>
     </div>
   )
